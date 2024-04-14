@@ -3,7 +3,7 @@ const _OFF = "Off";  // Don't use the functionality at all
 const _LOCK = '🔒';  // Aspect ratio is "locked"
 const _IMAGE = '🖼️'; // Aspect ratio is "locked" to that of the image
 
-const _MAXIMUM_DIMENSION = 2048;
+const _MAXIMUM_DIMENSION = 4096;
 const _MINIMUM_DIMENSION = 64;
 
 const _IMAGE_INPUT_CONTAINER_IDS = [
